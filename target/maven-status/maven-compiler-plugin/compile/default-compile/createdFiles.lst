@@ -1,0 +1,7 @@
+com\netsurfingzone\entity\Student.class
+com\netsurfingzone\serviceimpl\StudentServiceImpl.class
+com\netsurfingzone\config\Config.class
+com\netsurfingzone\repository\StudentRepository.class
+com\netsurfingzone\controller\StudentController.class
+com\netsurfingzone\service\StudentService.class
+com\netsurfingzone\main\SpringMain.class
